@@ -1029,7 +1029,7 @@ p.sub-paragraph-white {
 /* //banner slider */
 /* background images for banner */
 .banner-w3ls-1 {
-  background-image: linear-gradient(to right, rgba(49, 86, 163, 0.5), rgba(49, 86, 163, 0.5)), url(../images/slide1.jpg);
+  background-image: linear-gradient(to right, rgba(49, 86, 163, 0.5), rgba(49, 86, 163, 0.5)), url(../images/slide1.png);
   background-position: top center; }
 
 .banner-w3ls-2 {
@@ -1037,7 +1037,7 @@ p.sub-paragraph-white {
   background-position: top center; }
 
 .banner-w3ls-3 {
-  background-image: linear-gradient(to right, rgba(49, 86, 163, 0.5), rgba(49, 86, 163, 0.5)), url(../images/slide3.jpg);
+  background-image: linear-gradient(to right, rgba(49, 86, 163, 0.5), rgba(49, 86, 163, 0.5)), url(../images/slide3.png);
   background-position: top center; }
 
 .banner-w3ls-1, .banner-w3ls-2, .banner-w3ls-3 {
