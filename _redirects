@@ -1,0 +1,16 @@
+# Old Speech Therapy Works site -> Yoon Speech and Swallowing (permanent redirects)
+/about.html https://yoonspeechswallow.sg/about-us/ 301!
+/about https://yoonspeechswallow.sg/about-us/ 301!
+/yoonwailam.html https://yoonspeechswallow.sg/about-us/ 301!
+/yoonwailam https://yoonspeechswallow.sg/about-us/ 301!
+/lowaiwei.html https://yoonspeechswallow.sg/about-us/ 301!
+/lowaiwei https://yoonspeechswallow.sg/about-us/ 301!
+/adult_services.html https://yoonspeechswallow.sg/specialist-services/ 301!
+/adult_services https://yoonspeechswallow.sg/specialist-services/ 301!
+/child_services.html https://yoonspeechswallow.sg/ 301!
+/child_services https://yoonspeechswallow.sg/ 301!
+/contact.html https://yoonspeechswallow.sg/contact-us/ 301!
+/contact https://yoonspeechswallow.sg/contact-us/ 301!
+/terms.html https://yoonspeechswallow.sg/privacy-policy/ 301!
+/terms https://yoonspeechswallow.sg/privacy-policy/ 301!
+/* https://yoonspeechswallow.sg/ 301!
